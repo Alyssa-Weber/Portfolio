@@ -1,0 +1,34 @@
+# Weather Look-up Project
+
+This project is a part of the Portfolio for [Alyssa-Weber](https://github.com/Alyssa-Weber/Portfolio.git)
+
+#### -- Project Status: [Completed]
+
+## Project Intro/Objective
+
+This project aims to showcase python coding skills by connecting to a weather API and allowing users to look up current forecasts by city or zip code.
+
+### Technologies
+
+-   Python Coding using PyCharm interface
+-   Connection to [Open Weather API](https://openweathermap.org/api)
+
+## Project Description
+
+-   This project connects to to the Open Weather API.
+-   Prompts users for input such as city/zip code, C/F, and multiple look-ups
+-   Includes error handling to account for user input errors.
+-   Includes multiple functions used within the main() function.
+-   Adheres to Pep-8 guidelines
+
+## Needs of this project
+
+-   frontend developer
+
+## Featured Deliverables
+
+-   [Project File](https://github.com/Alyssa-Weber/Portfolio/blob/main/%232%20-%20Weather%20Lookup%20Project/Weather%20Lookup%20Project.py)
+
+## Contributing Members
+
+[Alyssa Weber](https://github.com/Alyssa-Weber)
