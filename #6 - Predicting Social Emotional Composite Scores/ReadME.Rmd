@@ -1,0 +1,40 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Predicting Social Emotional Composite Scores Project
+
+This project is a part of the Portfolio for [Alyssa-Weber](https://github.com/Alyssa-Weber/Portfolio.git)
+
+#### -- Project Status: [Completed]
+
+## Project Intro/Objective
+
+This project contains a formal presentation regarding the ability to predict social emotional self-reported scores based on data collected from White Bear Lake Area High School in MN. 
+
+### Methods Used
+
+-   Data Collection
+-   APA style write-up
+-   Data Exploration
+-   Modeling: Logistic Regression, Decision Tree, and Linear Regression
+
+## Project Description
+
+-   This project includes a formal APA style write-up, a formal presentation to the intended audience with recordings, and code. 
+-   Data was provided by the director of teacher and learning
+-   The goal was to classify students as either needing support or not needing support based on self-reported social emotional composite scores
+-   The write up includes background knowledge, model proposals, ethical implications, data exploration, modeling, and results. 
+-   The presentation was geared towards the high school principal and supporting staff to suggest ways in which we can best support the needs of our upcoming students in the 2023-2024 school year. 
+
+
+## Featured Deliverables
+
+-   [Paper](https://github.com/Alyssa-Weber/Portfolio/blob/main/%236%20-%20Predicting%20Social%20Emotional%20Composite%20Scores/Predicting%20Social-Emotional%20Composite%20Scores%20Writeup.pdf)
+-   [Presentation](https://github.com/Alyssa-Weber/Portfolio/blob/main/%236%20-%20Predicting%20Social%20Emotional%20Composite%20Scores/Predicting%20Social-Emotional%20Composite%20Scores%20Presentation.pptx)
+-   [Code - PDF](https://github.com/Alyssa-Weber/Portfolio/blob/main/%236%20-%20Predicting%20Social%20Emotional%20Composite%20Scores/Predicting%20Social-Emotional%20Composite%20Scrores%20Code.pdf)
+
+## Contributing Members
+
+[Alyssa Weber](https://github.com/Alyssa-Weber)

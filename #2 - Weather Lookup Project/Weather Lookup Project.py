@@ -3,7 +3,7 @@
 # 8/13/2022
 
 # Weather Program
-import cityrequests
+import requests
 import json
 
 api_key = 'e9cbf02f8341a8a133c588fe08c2248b'
