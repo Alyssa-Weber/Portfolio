@@ -1,0 +1,44 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Data Visualization Projects
+
+This project is a part of the Portfolio for [Alyssa-Weber](https://github.com/Alyssa-Weber/Portfolio.git)
+
+#### -- Project Status: [Completed]
+
+## Project Intro/Objective
+
+This contains a collection of data visualization projects including a project dashboard, executive summary, blog post, and infographic.
+
+### Methods Used
+
+-   Data Collection
+-   PowerBI
+-   PowerPoint
+-   Blog
+-   Canva
+
+## Project Description
+
+-   This collection of projects used the same data sets, but were intentional about creating visualizations for different audiences. 
+-   The project dashboard was created for an internal team that was knowledgeable about the data.
+-   The executive summary was designed for an internal team as a presentation to get the necessary staff informed before pushing information out to the general public. 
+-   The blog post was created with a story mindset and was built to captivate an audience that was not yet informed. 
+-   The infographic was built as a quick bold visual to get information out to the public quickly. 
+
+
+
+## Featured Deliverables
+
+-   [Project Dashboard](https://github.com/Alyssa-Weber/Portfolio/blob/main/%237%20-%20Data%20Visualizations/WeberAlyssa_DSC6340_Project%20Dashboard%20Week%203-4.pdf)
+-   [Executive Summary](https://github.com/Alyssa-Weber/Portfolio/blob/main/%237%20-%20Data%20Visualizations/WeberAlyssa_DSC%20640_%20Executive%20Summary%20Presentation.pdf)
+-   [Blog Post](https://github.com/Alyssa-Weber/Portfolio/blob/main/%237%20-%20Data%20Visualizations/Blog%20Post.pdf)
+-   [Infographic](https://github.com/Alyssa-Weber/Portfolio/blob/main/%237%20-%20Data%20Visualizations/WeberAlyssa_DSC640_Infographic.pdf)
+
+
+## Contributing Members
+
+[Alyssa Weber](https://github.com/Alyssa-Weber)
